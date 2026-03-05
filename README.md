@@ -40,31 +40,17 @@ Analyze the user behavior and marketing efficiency over 30 days to evaluate conv
 - Implement an intensive email address collection process to attract traffic from social media sites.
 
 ### ***Sample Output***
-+---------------------------+-----------+   
 
-| Metric                    | Value     |
 
-+---------------------------+-----------+
-
-| Viewers                   | 4,291     |   
-
-| Buyers                    | 709       |
-
-| Total Revenue ($)         | $76,191.82|
-
-| Avg. Order Value ($)      | $107.46   |
-
-| Revenue per Buyer ($)     | $107.46   |
-
-| Revenue per Viewer ($)    | $17.76    |
-
-| Avg. Time: View → Cart    | 12.19 min |
-
-| Avg. Time: Cart → Purchase| 10.16 min |
-
-| Avg. Total Journey Time   | 22.34 min |
-
-+---------------------------+-----------+
+Viewers                    : 4,291        
+Buyers                     : 709       
+Total Revenue ($)          : $76,191.82
+Avg. Order Value ($)       : $107.46 
+Revenue per Buyer ($)      : $107.46   
+Revenue per Viewer ($)     : $17.76    
+Avg. Time: View → Cart     : 12.19 min 
+Avg. Time: Cart → Purchase : 10.16 min 
+Avg. Total Journey Time    : 22.34 min 
 
 ### Author
 ***Abdelhak Morhlia***
